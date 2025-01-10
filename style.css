@@ -1,0 +1,16 @@
+.character {
+    border: 5px solid black;
+    margin: auto;
+    display: flex;
+    width: 500px;
+    margin-bottom: 5px;
+}
+
+img {
+    padding-right: 15px;
+    width: 150px;
+}
+
+.title {
+    text-align: center;
+}
